@@ -1,0 +1,9 @@
+**/.secrets
+**/.git
+**/.cache
+.env/
+__pycache__/
+.dockerignore
+docker-compose.yml
+Dockerfile
+tests/
